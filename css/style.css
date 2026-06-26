@@ -1780,6 +1780,13 @@ footer {
   align-items: center;
   gap: 12px;
 }
+.footer-logo-img2 {
+  height: 100;
+  width: auto;
+  max-width: 90px;
+  object-fit: contain;
+  cursor: pointer; 
+}
 
 .footer-logo-img {
   height: 100;
